@@ -1,0 +1,12 @@
+{
+  "name": "01_ejercicio",
+  "version": "1.0.0",
+  "description": "proyect",
+  "main": "index.js",
+  "scripts": {
+    "Ejercicio":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Hernandez",
+  "license": "ISC"
+}
