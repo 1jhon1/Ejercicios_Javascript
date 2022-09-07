@@ -1,0 +1,18 @@
+let nombre      = "Jhon";
+let apellido    = "Hernandez";
+let estudiante  = nombre+" "+apellido;
+console.log(estudiante);
+let estudianteMayus = estudiante.toUpperCase();
+console.log(estudianteMayus);
+let estudianteMinus = estudiante.toLowerCase();
+console.log(estudianteMinus);
+let numero_De_Letras = estudiante.length;
+console.log(numero_De_Letras);
+let primera_Nombre = nombre[0];
+console.log(primera_Nombre);
+let ultima_Apelido = apellido[8];
+console.log(ultima_Apelido);
+let eliminar_Espacios = estudiante.trim();
+console.log(eliminar_Espacios);
+let booleana = estudiante.includes(`${nombre}`);
+console.log(booleana);
