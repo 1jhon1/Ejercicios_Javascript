@@ -1,3 +1,4 @@
+//Ejercicio numerico 
 let altura_Entera = parseInt(160);
 console.log(altura_Entera);
 let altura_Decimal = parseFloat(1.60);
@@ -11,3 +12,4 @@ console.log(peso_Abajo);
 
 let max_Number = ((Number.MAX_VALUE + 1) == Number.MIN_VALUE);
 console.log(max_Number);
+
